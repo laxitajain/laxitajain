@@ -1,4 +1,4 @@
-<h1 align="center">Hi, this is Laxita!🌠ヾ(⌐■_■)ノ♪</h1>
+<h1 align="center">Hi, this is Laxita!🌠⌐■_■ ♪</h1>
 -I’m currently working on developing my coding skills.
 -Focusing on C++ rn!
 
