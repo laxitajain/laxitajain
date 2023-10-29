@@ -1,6 +1,7 @@
-<h1 align="center">Hi, this is Laxita!🌠⌐■_■ ♪ </h1>
--I’m currently working on developing my coding skills.
--Focusing on C++ rn!
+<h1 align="center">Hi, this is Laxita!🌠(⌐■_■) ♪</h1>
+- ✔ I’m currently working on developing my coding skills.
+
+- Focusing on C++ rn!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
