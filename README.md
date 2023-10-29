@@ -1,4 +1,4 @@
-<p align="left">💤 Laxita Jain (¬_¬ )</p>
+<p align="left"> Laxita Jain (¬_¬ )</p>
 - I’m currently working on developing my coding skills.
 
 - focusing on C++ rn.
