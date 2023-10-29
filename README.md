@@ -1,4 +1,4 @@
-<h1 align="center">Hi, this is Laxita!🌠⌐■_■ ♪</h1>
+<h1 align="center">Hi, this is Laxita!🌠⌐■_■ ♪ </h1>
 -I’m currently working on developing my coding skills.
 -Focusing on C++ rn!
 
@@ -15,3 +15,4 @@
 ![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/laxitajain/laxitajain/assets/87566518/51d8adff-80bc-4df6-be5a-3d155ce2fb00)
 
 
+![laxitajain](https://github.com/laxitajain/laxitajain/assets/87566518/c9a983b2-8581-405d-995c-8d0e79f1f9c8)
