@@ -13,5 +13,5 @@
 <p align="left">Familiar with:</p>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/laxitajain/laxitajain/assets/87566518/51d8adff-80bc-4df6-be5a-3d155ce2fb00)
+<p align="right">![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/laxitajain/laxitajain/assets/87566518/51d8adff-80bc-4df6-be5a-3d155ce2fb00)</p>
 
