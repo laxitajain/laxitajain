@@ -1,7 +1,7 @@
-<p align="left">Hey! I am Laxita Jain.</p>
-- I’m currently working on developing my coding skills.
-
-- focusing on C++ rn.
+<p align="left">Hi There! :) I am Laxita Jain, an aspiring developer.</p>
+-learning full stack web development right now
+-the world of coding and open-source enthralls me like none other :p
+-coding, as per me, is intellectually stimulating and can heal you in more ways than one. 
 
 <p align="left"> Find me on:</p>
 <p align="left">
