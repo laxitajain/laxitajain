@@ -1,7 +1,9 @@
 <p align="left">Hi There! :) I am Laxita Jain, an aspiring developer.</p>
+<pre>
 -learning full stack web development right now
 -the world of coding and open-source enthralls me like none other :p
 -coding, as per me, is intellectually stimulating and can heal you in more ways than one. 
+</pre>
 
 <p align="left"> Find me on:</p>
 <p align="left">
