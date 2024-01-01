@@ -24,12 +24,4 @@
 </div></span> -->
 
 <!-- Streal stats (Dark mode) -->
-<div align="left">
-  <a href="https://github.com/qwerty541#gh-dark-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=laxitajain&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laxitajain&theme=city-lights" alt="GitHub Streak" /></a>
