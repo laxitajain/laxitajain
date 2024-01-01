@@ -24,4 +24,4 @@
 </div></span> -->
 
 <!-- Streal stats (Dark mode) -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laxitajain&theme=python-dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laxitajain&theme=yellowdark" alt="GitHub Streak" /></a>
