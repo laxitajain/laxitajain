@@ -1,4 +1,4 @@
-<p align="left">Hi There! :) I am Laxita Jain, an aspiring developer.</p>
+<p align="left">Hi there! :) I am Laxita, an aspiring developer.</p>
 <pre>
 -varied interests: web development, version control, machine learning, prompt engineering and GenAI
 -the world of open-source enthralls me like none other :p
