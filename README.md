@@ -1,4 +1,4 @@
-<!-- <p align="left">Hi there! :) I am Laxita, an aspiring developer.</p>
+ <!-- <p align="left">Hi there! :) I am Laxita, an aspiring developer.</p>
  
 <hr>
 <H5>TECH STACK</H5>
