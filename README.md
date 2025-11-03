@@ -41,7 +41,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=laxitajain&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
 <span>
-<p align="left">To connect: <a href="https://linkedin.com/in/laxitajain912" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxitajain" height="30" width="40" /></a>
+<p align="left">To connect! <a href="https://linkedin.com/in/laxitajain912" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxitajain" height="30" width="40" /></a>
 Or write to me @ laxitajain912@gmail.com
 </p>
 </span>
