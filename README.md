@@ -70,7 +70,7 @@
 </p>
  -->
 
-- 20, CSE' 27.
+- 20, likes messing around.
 - Google WE Scholar, Cohort 6.
 - C++, Python, MERN stack, DL enthusiast.
 - Keeping pace with AI developments (trying to!)
