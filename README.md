@@ -71,6 +71,9 @@
  -->
 
 - 20, likes messing around.
+- Google WE Scholar, Cohort 6.
+- C++, Python, MERN stack, DL enthusiast.
+- Keeping pace with AI developments (trying to!)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxitajain&" alt="laxitajain" /></p> -->
 
