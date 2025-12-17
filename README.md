@@ -70,7 +70,7 @@
 </p>
  -->
 
-- 20, likes messing around here.
+- 20, I love tinkering with things around here.
 - Google WE Scholar, Cohort 6.
 - C++, Python, MERN stack, DL enthusiast.
 - keeping pace with advancements in AI.
