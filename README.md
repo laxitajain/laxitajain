@@ -97,12 +97,13 @@
 
 <!-- Streal stats (Dark mode) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=laxitajain&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)-->
-<a href="https://git.io/streak-stats">
+<!-- <a href="https://git.io/streak-stats">
   <img
     src="https://streak-stats.demolab.com?user=laxitajain&theme=shades-of-purple&hide_border=true"
     alt="GitHub Streak Stats"
   />
-</a>
+</a> -->
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=laxitajain&theme=shades-of-purple&hide_border=true&border_radius=)](https://git.io/streak-stats)
 
 <!-- <span>
 <p align="left">To connect~ <a href="https://linkedin.com/in/laxitajain912" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxitajain" height="30" width="40" /></a>
