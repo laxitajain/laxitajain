@@ -96,7 +96,7 @@
 </div></span> -->
 
 <!-- Streal stats (Dark mode) -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=laxitajain&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)-->
+ [![GitHub Streak](https://streak-stats.demolab.com?user=laxitajain&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 <!-- <a href="https://git.io/streak-stats">
   <img
     src="https://streak-stats.demolab.com?user=laxitajain&theme=shades-of-purple&hide_border=true"
