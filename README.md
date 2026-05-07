@@ -73,7 +73,7 @@
 - 20, I love tinkering with things around here.
 - Google WE Scholar, Cohort 6.
 - C++, Python, MERN stack, DL enthusiast.
-- you'll find me reading research in AI, deciphering OSS or @ cp-algorithms.
+- you'll find me reading research in AI, experimenting OSS or @ cp-algorithms.
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxitajain&" alt="laxitajain" /></p> -->
 
