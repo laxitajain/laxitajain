@@ -74,7 +74,7 @@
 - Google WE Scholar, Cohort 6.
 - you'll find me reading research in AI, experimenting with OSS or @ cp-algorithms.
   
-[![My Skills](https://skillicons.dev/icons?i=cpp,linux,debian,kubernetes,js,react,redux,next&theme=dark)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=cpp,linux,debian,kubernetes,js,react,redux,next&theme=dark)](https://skillicons.dev) -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxitajain&" alt="laxitajain" /></p> -->
 
 <!-- GRS (Dark Mode) -->
